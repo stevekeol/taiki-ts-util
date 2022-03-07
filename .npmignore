@@ -1,0 +1,6 @@
+coverage/
+docs/
+node_modules/
+scripts/
+src/
+tests/

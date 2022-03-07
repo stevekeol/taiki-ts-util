@@ -1,0 +1,1 @@
+export { Inject, Injectable } from './di'
